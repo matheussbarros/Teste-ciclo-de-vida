@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Teste ciclo de vida</string>
+    <string name="action_settings">Settings</string>
+</resources>
